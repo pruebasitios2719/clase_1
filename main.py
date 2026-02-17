@@ -1,2 +1,2 @@
-print("Hola, Academia Ingenio.")
-
+nombre: str = input('Nombre: ')
+print(f'Hola, {nombre}.')
